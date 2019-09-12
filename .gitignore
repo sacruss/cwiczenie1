@@ -1,4 +1,4 @@
 .idea
 .ideal/
-/.var/*
-!/.var/system.log
+.var/*
+!.var/system.log
